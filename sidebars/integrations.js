@@ -439,7 +439,7 @@ module.exports = [
     label: "Other integrations",
     collapsed: true,
     items: [
-      "other/file-upload",
+      "integrations/file-upload",
     ]
   },
 ];

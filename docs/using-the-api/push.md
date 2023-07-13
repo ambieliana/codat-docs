@@ -185,4 +185,4 @@ The list endpoint can be used to present to the user a list of recent push reque
 
 ### 2. Webhooks
 
-A second option for monitoring push operations is to register a subscription to the "Push status changed" rule. This can be configured by following the instructions in our documentation for [subscribing to rules](/introduction/webhooks/core-rules-create).
+A second option for monitoring push operations is to register a subscription to the "Push status changed" rule. This can be configured by following the instructions in our documentation for [subscribing to rules](/using-the-api/webhooks/core-rules-create).
