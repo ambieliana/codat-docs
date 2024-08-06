@@ -59,7 +59,7 @@ POST https://api.codat.io/companies/{companyId}/sync/expenses/config
     }
 }
 ```
-If a configuration is set for a company, but the customer sets a bank account, supplier, and customer value on the expense transaction level, Sync for Expenses will use the values from the trasaction when creating the expense in the accounting platform.
+If a configuration is set for a company, but the customer sets a bank account, supplier, and customer value on the expense transaction level, Sync for Expenses will use the values from the transaction when creating the expense in the accounting platform.
 
 :::caution Suppliers in Microsoft Dynamics
 
